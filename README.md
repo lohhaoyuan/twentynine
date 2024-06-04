@@ -1,3 +1,9 @@
+# on the back burner
+i may pick up this project in future, not a priority, see my /now for what im currently working on
+
+<hr>
+<del>
+
 # twentynine
 possible? project work for 2024
 
@@ -16,7 +22,8 @@ some students are very, *very* lost.
 ## the idea
 what if we could create a better solution to large scale event registration? and, more importantly, what if we could make a better looking platform to register students?
 
-**what if we made a glorified, over the top google sheet integration app?**
+**what if we made a glorified, over the top google sheet integration?**
 
 ## features
 tbc
+</del>
